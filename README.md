@@ -14,7 +14,3 @@ A fun guessing game where the user tries to guess a randomly generated number be
 - Conditionals
 - Console input/output
 
-## How to Run
-1. Open `main.cpp` in Visual Studio 2022
-2. Compile and run the program
-3. Try to guess the number!
